@@ -1,29 +1,5 @@
-# Minimal Neatio Blog Site
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Written in TypeScript
+# Neat Blog
 
-Built with Vue3 and Markdown
-
-Clone repo
-
-```
-https://github.com/neatio-network/neat-blog.git
-```
-
-Dependencies installation:
-
-```
-npm install
-```
-
-For development run:
-
-```
-npm run dev
-```
-
-For production run:
-
-```
-npm run dist
-```
+© 2023 Neatio - Made with love by MrTizu
