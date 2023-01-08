@@ -1,10 +1,9 @@
 ---
-author: "Neatio"
+author: "Adrian"
 title: "Detailed 2023 Roadmap"
 date: "2023-01-05"
-description: "Neatio 2023 roadmap in-depth breakdown and milestones."
+description: ""
 tags:
-  - neatio
   - roadmap
   - milestones
   - development
@@ -15,4 +14,6 @@ cover:
     caption: " neatio " # display caption under cover
     relative: true # when using page bundles set this to true
 ---
+
+
 
