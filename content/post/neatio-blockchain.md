@@ -31,53 +31,53 @@ We aim to provide one of the fastest and secure means of payment based on the st
 ---
 ### Neatio Key Features
 
-*   Side Chains ecosystem
-*   Energy efficient (Proof-Of-Stake)
-*   Very fast transactions (~ 50 ms)
-*   No transactions confirmation needed
-*   Thousands of transactions per second
-*   Adaptive block size (up to 20MB blocks)
+*  ▸ Side Chains ecosystem
+*  ▸ Energy efficient (Proof-Of-Stake)
+*  ▸ Very fast transactions (~ 50 ms)
+*  ▸ No transactions confirmation needed
+*  ▸ Thousands of transactions per second
+*  ▸ Adaptive block size (up to 20MB blocks)
 
 --- 
 ### Neatio Blockchain Details
 
-*   Own blockchain
-*   100% open source
-*   PoS (Proof-of-Stake)
-*   dPoS (Delegated Proof-of-Stake)
-*   Smart contracts and dApps
-*   Native EVM support - Solidity
-*   Network mainnet port: 9910
-*   Network testnet port: 9911
+*   ▸ Own blockchain
+*   ▸ 100% open source
+*   ▸ PoS (Proof-of-Stake)
+*   ▸ dPoS (Delegated Proof-of-Stake)
+*   ▸ Smart contracts and dApps
+*   ▸ Native EVM support - Solidity
+*   ▸ Network mainnet port: 9910
+*   ▸ Network testnet port: 9911
 
 ---
 ### Technical Specification
-*   Custom pBFT Consensus
-*   Hashing algorithm: SHA256
-*   Total supply: 50,000,000 NEAT
-*   Smallest unit: 18th decimal
-*   Epoch duration: 1 hour
-*   Total epochs: 6096960
-*   Total years to mint: 15
-*   Aprox. 52% APY (as of 21.12.2022)
+*   ▸ Custom pBFT Consensus
+*   ▸ Hashing algorithm: SHA256
+*   ▸ Total supply: 50,000,000 NEAT
+*   ▸ Smallest unit: 18th decimal
+*   ▸ Epoch duration: 1 hour
+*   ▸ Total epochs: 6096960
+*   ▸ Total years to mint: 15
+*   ▸ Aprox. 52% APY (as of 21.12.2022)
 
 ---
 ## Become a Validator
-*   Collateral: Minimum 50,000 NEAT
-*   System: Minimum 2 CPU, 4GB RAM, 80GB SSD, Static IP
-*   Reward: Inflation is approximately 8235 NEAT per day.
+*   ▸ **Collateral:** Minimum 50,000 NEAT
+*   ▸ **System:** Minimum 2 CPU, 4GB RAM, 80GB SSD
+*   ▸ **Rewards:** Inflation is approximately 8235 NEAT per day
 
 ---
 ### **Contact, Community and Documentation**
 
-*   Website: https://neatio.net/
-*   Explorer: https://scan.neatio.net/
-*   Discord: https://discord.neatio.net/
-*   Telegram: https://t.me/neat_io
-*   Twitter: https://twitter.com/neatio_network
-*   Facebook: https://www.facebook.com/neatio.net
-*   Reddit: https://www.reddit.com/r/neatio/
-*   GitHub: https://github.com/neatio-network/
-*   Whitepaper: https://neatio.net/whitepaper.pdf
+*   **Website:** https://neatio.net/
+*   **Explorer:** https://scan.neatio.net/
+*   **Discord:** https://discord.neatio.net/
+*   **Telegram:** https://t.me/neat_io
+*   **Twitter:** https://twitter.com/neatio_network
+*   **Facebook:** https://www.facebook.com/neatio.net
+*   **Reddit:** https://www.reddit.com/r/neatio/
+*   **GitHub:** https://github.com/neatio-network/
+*   **Whitepaper:** https://neatio.net/whitepaper.pdf
 
 If you have any question don't hesitate to get in touch with us!
