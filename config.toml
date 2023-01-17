@@ -2,37 +2,67 @@ baseurl = "https://blog.neatio.net/"  # Include trailing slash
 title = "Neatio | Blog"
 theme = "newsroom"
 author = "Neatio"
-canonifyurls = true
-paginate = 6
+
 
 [markup]
-  [markup.goldmark.renderer]
-    hardWraps = false
-    unsafe = false # change to true to enable inclusion of rawHTML and math functions
-    xhtml = false
+  defaultMarkdownHandler = 'goldmark'
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = []
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'unsafe'
+    sectionNumbers = false
+    trace = false
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
   [markup.highlight]
+    anchorLineNos = false
     codeFences = true
     guessSyntax = false
-    hl_Lines = ""
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
     lineNoStart = 1
-    lineNos = true
-    lineNumbersInTable = false
-    noClasses = false
-    tabWidth = 2
-
-# If you want to use disqus, uncomment the line below
-# disqusShortname = "yourdiscussshortname"
-
-# ids used below are not valid. Replace with valid ones
-[params]
-  # locale = "en_US"
-  # ga_analytics = "" # google analytics ID e.g UA-116386578-1
-  # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  twitter = "@mrtizu" 
-  # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
-  # uncomment the line below will disable darkmode by default.
-  # uncomment and set value below to either "light" or "dark" to make default mode dark.
-  # defaultMode = "dark" # Note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
-  logo = "/images/neat-blog.png" # if the value is an empty string, the site title will be shown instead
-  faviconsDir = "/images/icons/favicon.ico" # with a trailing slash
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'monokai'
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+  faviconsDir = "/static/favicon/favicon-16x16.png/" 
   blogDir = "post" # edit
+
+[params]
+  locale = "en_US"
+
+  twitter = "@mrtizu" 
+  defaultMode = "dark" 
+  logo = "/images/neat-blog.png"

@@ -1,6 +1,6 @@
 - item: About
   url: about/
 - item: Blog
-  url: ""
+  url: "/"
 - item: Tag
   url: tags
