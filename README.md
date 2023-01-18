@@ -1,2 +1,3 @@
-# neat-blog
-Neatio Blog
+## Neatio Blog
+
+Built with love using Hugo.
