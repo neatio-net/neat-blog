@@ -5,7 +5,7 @@
 [author_profile]
   other = "{{ . }}'s profile"
 [designed_by]
-  other = "Made by <a href = '{{ .url }}' target = '_blank' title = 'Twitter' rel = 'nonopener'>{{ .name }}</a>"
+  other = " by <a href = '{{ .url }}' target = '_blank' title = 'Twitter' rel = 'nonopener'>{{ .name }}</a>"
 [go_back]
   other = "Go Back"
 [latest_posts]
