@@ -20,11 +20,7 @@ html[data-mode="dim"] {
   --bg: var(--bg-dark);
   --text: var(--light);
   --accent: var(--bubble);
-  --theme: rgb(48,209,88);
-}
-
-html[data-mode="dim"] * {
-  box-shadow: none !important;
+  --theme: rgb(0,255,255);
 }
 
 html[data-mode="dim"] main p {
@@ -42,10 +38,7 @@ html[data-mode="dim"] .color_choice::after {
     --bg: var(--bg-dark);
     --text: var(--light);
     --accent: var(--bubble);
-    --theme: rgb(48,209,88);
-  }
-  html:not([data-mode="lit"]) * {
-    box-shadow: none !important;
+    --theme: rgb(0,255,255);
   }
   html:not([data-mode="lit"]) main p {
     opacity: 0.9;
@@ -299,9 +292,13 @@ aside h3 {
 }
 
 .article {
-  box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0 1.5rem rgba(36, 200, 212, 0.719);
   overflow: hidden;
   border-radius: 0.5rem;
+  box-sizing: 1px;
+  border: none;
+  border: 1px solid #00ffffa4;
+  border-radius: 10px;
 }
 
 .article_title {
@@ -535,7 +532,8 @@ aside h3 {
 }
 
 .footer a {
-  opacity: 0.8;
+  opacity: 1;
+  color: #00ffff;
   transition: opacity 0.3s ease-in-out;
 }
 
@@ -1126,9 +1124,9 @@ aside h3 {
 }
 
 .attribution {
-  opacity: 0.33;
+  color: #fff;
   font-size: 0.8rem;
-  transition: opacity 0.25 var(--ease);
+  text-transform: none;
 }
 
 .attribution:hover {

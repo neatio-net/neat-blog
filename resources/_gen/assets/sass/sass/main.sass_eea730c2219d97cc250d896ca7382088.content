@@ -20,7 +20,7 @@ html[data-mode="dim"] {
   --bg: var(--bg-dark);
   --text: var(--light);
   --accent: var(--bubble);
-  --theme: rgb(48,209,88);
+  --theme: rgb(0,255,255);
 }
 
 html[data-mode="dim"] * {
@@ -42,7 +42,7 @@ html[data-mode="dim"] .color_choice::after {
     --bg: var(--bg-dark);
     --text: var(--light);
     --accent: var(--bubble);
-    --theme: rgb(48,209,88);
+    --theme: rgb(0,255,255);
   }
   html:not(.nodarkmode):not([data-mode="lit"]) * {
     box-shadow: none !important;
@@ -535,7 +535,7 @@ aside h3 {
 }
 
 .footer a {
-  opacity: 0.8;
+
   transition: opacity 0.3s ease-in-out;
 }
 
