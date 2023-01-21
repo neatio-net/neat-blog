@@ -63,6 +63,6 @@ author = "Neatio"
 [params]
   locale = "en_US"
 
-  twitter = "@mrtizu" 
+  twitter = "@MrTizu" 
   defaultMode = "dark" 
-  logo = "/images/neat-blog.png"
+  logo = "/images/neat-blog-inverse.png"
