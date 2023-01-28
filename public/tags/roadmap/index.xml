@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>roadmap on Neatio | Blog</title>
+    <link>https://blog.neatio.net/tags/roadmap/</link>
+    <description>Recent content in roadmap on Neatio | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.neatio.net/tags/roadmap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Detailed Q1 2023 Roadmap</title>
+      <link>https://blog.neatio.net/post/2023-roadmap/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/post/2023-roadmap/</guid>
+      <description>In-depth Neatio project development milestones for the year 2023, quarter 1. ▸ Q1 2023 Roadmap The creation of a new roadmap for 2023 is an important step for the Neatio project as it sets the direction and priorities for the coming year. This roadmap will outline the major goals and objectives that the Neatio project aims to achieve in 2023, such as the development of new features, partnerships, and overall ecosystem development.</description>
+    </item>
+    
+  </channel>
+</rss>

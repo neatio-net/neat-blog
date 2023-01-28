@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>payments on Neatio | Blog</title>
+    <link>https://blog.neatio.net/tags/payments/</link>
+    <description>Recent content in payments on Neatio | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.neatio.net/tags/payments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neatio in a Nutshell</title>
+      <link>https://blog.neatio.net/about/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/about/</guid>
+      <description>Introduction Who we are? We are a team of software engineers and developers passionate about blockchain technology with a strong belief in the freedom and privacy of each individual. Our team is a perfect blend of core developers and UX/UI designers. We all love Bitcoin since it introduced us the amazing world of blockchain technology, we also love Ethereum and the smart contract technology but since both BTC and ETH became store of value rather than a peer-to-peer electronic cash system (like it was stated in the Bitcoin whitepaper by Satoshi Nakamoto) we decided to bring Neatio to life.</description>
+    </item>
+    
+    <item>
+      <title>Neatio in a Nutshell</title>
+      <link>https://blog.neatio.net/post/neatio-blockchain/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/post/neatio-blockchain/</guid>
+      <description>Introduction Who we are? We are a team of software engineers and developers passionate about blockchain technology with a strong belief in the freedom and privacy of each individual. Our team is a perfect blend of core developers and UX/UI designers. We all love Bitcoin since it introduced us the amazing world of blockchain technology, we also love Ethereum and the smart contract technology but since both BTC and ETH became store of value rather than a peer-to-peer electronic cash system (like it was stated in the Bitcoin whitepaper by Satoshi Nakamoto) we decided to bring Neatio to life.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Neatio | Blog</title>
+    <link>https://blog.neatio.net/tags/</link>
+    <description>Recent content in Tags on Neatio | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.neatio.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>roadmap</title>
+      <link>https://blog.neatio.net/tags/roadmap/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/tags/roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neatio</title>
+      <link>https://blog.neatio.net/tags/neatio/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/tags/neatio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>payments</title>
+      <link>https://blog.neatio.net/tags/payments/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/tags/payments/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

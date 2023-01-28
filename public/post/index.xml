@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Neatio | Blog</title>
+    <link>https://blog.neatio.net/post/</link>
+    <description>Recent content in Posts on Neatio | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.neatio.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Detailed Q1 2023 Roadmap</title>
+      <link>https://blog.neatio.net/post/2023-roadmap/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/post/2023-roadmap/</guid>
+      <description>In-depth Neatio project development milestones for the year 2023, quarter 1. ▸ Q1 2023 Roadmap The creation of a new roadmap for 2023 is an important step for the Neatio project as it sets the direction and priorities for the coming year. This roadmap will outline the major goals and objectives that the Neatio project aims to achieve in 2023, such as the development of new features, partnerships, and overall ecosystem development.</description>
+    </item>
+    
+    <item>
+      <title>Neatio December Quest</title>
+      <link>https://blog.neatio.net/post/december-quest/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/post/december-quest/</guid>
+      <description>111Today, we take a moment to celebrate our accomplishments and look forward to the future of Neatio project with a nice event dedicated to our community and supporters.
+Over the past year, we have faced many challenges and overcome them, thanks to the hard work and dedication of our team and community. Today, we take a moment to celebrate our accomplishments and look forward to the future with a nice event dedicated to our community and supporters.</description>
+    </item>
+    
+    <item>
+      <title>Neatio in a Nutshell</title>
+      <link>https://blog.neatio.net/post/neatio-blockchain/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/post/neatio-blockchain/</guid>
+      <description>Introduction Who we are? We are a team of software engineers and developers passionate about blockchain technology with a strong belief in the freedom and privacy of each individual. Our team is a perfect blend of core developers and UX/UI designers. We all love Bitcoin since it introduced us the amazing world of blockchain technology, we also love Ethereum and the smart contract technology but since both BTC and ETH became store of value rather than a peer-to-peer electronic cash system (like it was stated in the Bitcoin whitepaper by Satoshi Nakamoto) we decided to bring Neatio to life.</description>
+    </item>
+    
+  </channel>
+</rss>
