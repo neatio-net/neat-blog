@@ -1,5 +1,5 @@
 +++
-author = "Adrian"
+author = "MrTizu"
 title = "The Detailed Q1 2023 Roadmap"
 date = "2023-01-17"
 description = "Detailed Neatio project roadmap for Q1 2023."
