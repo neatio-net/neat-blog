@@ -7,7 +7,7 @@ html {
   --bubble: rgb(16,16,18);
   --accent: var(--gray);
   --bg: var(--light);
-  --bg-dark: #191922;
+  --bg-dark: #000;
   --text: var(--dark);
   --font: 'Metropolis', sans-serif;
   --theme: #496785;

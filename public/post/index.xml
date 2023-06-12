@@ -5,7 +5,16 @@
     <link>https://blog.neatio.net/post/</link>
     <description>Recent content in Posts on Neatio | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 21 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.neatio.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.neatio.net/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contract Migration and Ticker Change</title>
+      <link>https://blog.neatio.net/post/neatio-contract/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.neatio.net/post/neatio-contract/</guid>
+      <description>Neatio&amp;rsquo;s NEAT Token: Smart Contract Address Migration on the Binance Smart Chain network and new Neatio ticker &amp;ldquo;NIO&amp;rdquo; ▸ New wrapped NIO contract address: 0x9C8d7980fBaC17E1DdaE994Ce9Fe168c72eD5C37 ▸ Introduction In the ever-evolving world of cryptocurrency, projects often undergo updates and improvements to enhance their functionality and user experience. Neatio, a promising platform, is set to migrate its token &amp;ldquo;NEAT&amp;rdquo; to a new smart contract address on the Binance Smart Chain. This migration aims to remove the proxy admin contract and also change the token ticker to &amp;ldquo;NIO&amp;rdquo;, a more appropiate one for the Neatio name which for those of you who didn&amp;rsquo;t knew, the name Neatio is composed from &amp;ldquo;Neat&amp;rdquo; + &amp;ldquo;input output&amp;rdquo;, so we think &amp;ldquo;NIO&amp;rdquo; is the way to go.</description>
+    </item>
+    
     <item>
       <title>Neatio&#39;s Off-Chain Governance</title>
       <link>https://blog.neatio.net/post/governance/</link>
