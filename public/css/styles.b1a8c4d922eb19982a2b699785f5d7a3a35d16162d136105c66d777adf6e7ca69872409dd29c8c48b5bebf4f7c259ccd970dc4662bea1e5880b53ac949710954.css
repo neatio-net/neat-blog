@@ -7,7 +7,7 @@ html {
   --bubble: rgb(16,16,18);
   --accent: var(--gray);
   --bg: var(--light);
-  --bg-dark: #000;
+  --bg-dark: #212226;
   --text: var(--dark);
   --font: 'Metropolis', sans-serif;
   --theme: #496785;
@@ -20,7 +20,7 @@ html[data-mode="dim"] {
   --bg: var(--bg-dark);
   --text: var(--light);
   --accent: var(--bubble);
-  --theme: rgb(0,255,255);
+  --theme: #46bbf4;
 }
 
 html[data-mode="dim"] main p {
@@ -292,12 +292,12 @@ aside h3 {
 }
 
 .article {
-  box-shadow: 0 0 1.5rem rgba(36, 200, 212, 0.719);
+  box-shadow: 0 0 1.5rem rgba(89,131,252,1.000);
   overflow: hidden;
   border-radius: 0.5rem;
   box-sizing: 1px;
   border: none;
-  border: 1px solid #00ffffa4;
+  border: 1px solid #5983FC;
   border-radius: 10px;
 }
 
@@ -533,7 +533,7 @@ aside h3 {
 
 .footer a {
   opacity: 1;
-  color: #00ffff;
+  color: #46bbf4;
   transition: opacity 0.3s ease-in-out;
 }
 
