@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.neatio.net/post/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>https://blog.neatio.net/tags/contract/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.neatio.net/tags/rebrand-logo/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <loc>https://blog.neatio.net/post/neatio-polygon/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.neatio.net/post/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.neatio.net/tags/</loc>
+    <lastmod>2023-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.neatio.net/tags/rebrand-logo/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.neatio.net/post/nio3/</loc>
@@ -16,9 +22,6 @@
   </url><url>
     <loc>https://blog.neatio.net/post/logo-rebrand/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.neatio.net/tags/contract/</loc>
-    <lastmod>2023-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.neatio.net/post/ticker/</loc>
     <lastmod>2023-06-13T00:00:00+00:00</lastmod>
